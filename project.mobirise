@@ -23,7 +23,7 @@
         "display7Size": 1.1,
         "display4Font": "Roboto",
         "display4Size": 0.9,
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isScrollToTopButton": false,
         "arrowColor": "#4ea2e3"
       },
@@ -161,6 +161,7 @@
                 "z-index": "1",
                 "opacity": "1",
                 "pointer-events": "all"
+                
               }
             },
             ".link.dropdown-toggle:after": {
